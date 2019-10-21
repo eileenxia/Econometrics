@@ -1,6 +1,6 @@
 *********************************************************************
 **** Eileen Xia
-**** Ec20 Final Project
+**** Ec20
 *********************************************************************
 
 cd /Users/eileenxia/Desktop/Ec20 // tell Stata where your master folder is
